@@ -1,18 +1,20 @@
-\# MongoDB Atlas Laboratory Activity
+**MongoDB Atlas Laboratory Activity**
 
 
 
-\*\*Name:\*\* Lovely Alabe  
+***Name:*** Lovely Alabe  
 
-\*\*Student ID:\*\* 2022303531
+***Student ID:***2022303531
 
-\*\*Branch:\*\* student-loveyalabe  
+***Name:*** Kristeza Marie Balodo
+
+***Student ID:*** 
+
+***Branch:*** student-loveyalabe  
 
 
 
-\## Notes
 
 
-
-Successfully connected the Next.js application to MongoDB Atlas and loaded the product data from the `store.products` collection.
+***Note:*** Successfully connected the Next.js application to MongoDB Atlas and loaded the product data from the `store.products` collection. 
 
