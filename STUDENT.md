@@ -1,20 +1,20 @@
-**MongoDB Atlas Laboratory Activity**
+**MongoDB Atlas Laboratory Activity**   
 
 
 
-***Name:*** Lovely Alabe  
+***Name:*** Lovely Alabe
 
-***Student ID:*** 2022303531
+***Student ID:*** 2022303531  
 
 
 
 ***Name:*** Kristeza Marie Balodo
 
-***Student ID:*** 
+***Student ID:***     
 
 
 
-***Branch:*** student-loveyalabe  
+***Branch:*** student-loveyalabe            
 
 
 
